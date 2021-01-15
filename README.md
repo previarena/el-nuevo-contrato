@@ -27,11 +27,15 @@ Para validar un número de tarjeta utilizando el algoritmo de Luhn se deben segu
 
 3-Luego esa suma se divide entre 10, y si el resto de la división es 0 entonces es un número válido.
 
-![Alt text](luhn.PNG?raw=true "Title")
+![alt text](https://raw.githubusercontent.com/previarena/el-nuevo-contrato/main/luhn.PNG)
+
+[Si no puede visualizar la imágen, puede verla haciendo click en luhn.PNG dentro del mismo proyecto]
 
 Las tarjeta además se componen de una estructura, del siguiente tipo:
 
-![Alt text](cardnumberformat.png?raw=true "Title")
+![alt text](https://www.mobilefish.com/images/services/bank_identification_number_creditcard.png)
+
+[Si no puede visualizar la imágen, puede verla haciendo click en formatoTarjeta.png dentro del mismo proyecto]
 
 donde primero se encuentra la id del banco, que en el caso del banco Kyrios es: 579826, luego se encuentra el número de cuenta que tenemos que generar
 y el dígito 16 es el dígito verificador, que se ocupa para validar que los demás números sean correctos.
