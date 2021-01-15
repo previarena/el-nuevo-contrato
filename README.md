@@ -28,7 +28,7 @@ iii-Luego esa suma se divide entre 10, y si el resto de la división es 0 entonc
 
 [Si no puede visualizar la imágen, puede verla haciendo click en luhn.PNG dentro del mismo proyecto]
 
-5- El número de la tarjeta además se componen de una estructura, el cuál debe seguirse, del siguiente tipo:
+5- El número de la tarjeta además se compone de una estructura, la cuál debe seguirse, del siguiente tipo:
 
 ![alt text](https://www.mobilefish.com/images/services/bank_identification_number_creditcard.png)
 
