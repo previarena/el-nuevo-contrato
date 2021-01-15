@@ -1,3 +1,1 @@
-(defvar '("5798 26XX XXXX XXXY", "5798 26XX XXXX XXXY", "5798 26XX XXXX XXXY", "5798 26XX XXXX XXXY"))
-
-(print "hola mundo")
+; Aquí comienza tu código

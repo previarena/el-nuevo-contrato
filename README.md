@@ -15,11 +15,11 @@ Se debe generar un algoritmo para generar 5 nuevos números de tarjetas de créd
 
 2- Debe ser de largo 16
 
-3- No deben repetirse, con los que ya entrega el banco (Están en una lista en el código)
+3- No deben repetirse las tarjetas de crédito.
 
-4- Deben ser válidos según el algoritmo de Luhn, el cuál se explica a continuación, se explica como funciona el algoritmo de Luhn: 
+4- Deben ser válidos según el algoritmo de Luhn, el cuál se explica a continuación: 
 
-Para generar el dígito de verificación empleando el algoritmo de Luhn se deben seguir estos pasos:
+Para validar un número de tarjeta utilizando el algoritmo de Luhn se deben seguir estos pasos:
 
 1-Se multiplica cada dígito de posición par (contando desde la derecha) por dos. Si el resultado es un número de dos dígitos, entonces se suman estos dos valores
 
